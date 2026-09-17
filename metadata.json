@@ -1,0 +1,6 @@
+{
+  "name": "Trading Calculator Dashboard",
+  "description": "Ứng dụng tính toán siêu tốc cho nhà đầu tư Chứng khoán Việt Nam và Trader Quốc tế (Crypto/Forex)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
